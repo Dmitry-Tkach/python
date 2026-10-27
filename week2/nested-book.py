@@ -17,10 +17,9 @@ def nested_book():
 
         if perfect == "yes":
             print("Soft cover, perfect bound books are very popular!")
-    else:
-       print("Soft covers with coils or stitches are great for short books")
-
-    if input_val == "hard":
+        else:
+            print("Soft covers with coils or stitches are great for short books")
+    elif input_val == "hard":
         print("Books with hard covers can be more expensive!")
 
 nested_book()
