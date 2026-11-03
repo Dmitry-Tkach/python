@@ -7,3 +7,6 @@ tempCodeRunnerFile.*
 
 # macOS folder metadata
 .DS_Store
+
+# Lecture slides
+*.pptx
