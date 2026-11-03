@@ -1,2 +1,9 @@
-week2/__pycache__
-week2/tempCodeRunnerFile.py
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Temporary files created by the VS Code Code Runner extension
+tempCodeRunnerFile.*
+
+# macOS folder metadata
+.DS_Store
